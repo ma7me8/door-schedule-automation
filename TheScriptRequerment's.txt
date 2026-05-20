@@ -1,0 +1,11 @@
+requirment's : 
+1- ever all floors excel files to be in one folder
+2- ever all files be "excel.xlsx" exclude
+3- ever all sheet's must be same name
+4- sheet name in the main file must be knowen
+5- the haeder row must start from the 2nd row  
+6- the data must start from the 3rd row
+7- name of columns key must be the same in all floors files (in our stat will be "ROOM NUMBER")
+8- name of columns what we want to update them in the main file must be the same in all floors files
+9- script does't add a new door not found in the main file in case 
+10- script make save as the main file 
